@@ -1,0 +1,4 @@
+[Transaction{sender='Anonymous', receiver='Everyone', data=[message = Hey guys I have been going through a lot , i get discriminated because of my condition, sender=anonymous08, receiver=Everyone ], timestamp=1715697973607}]
+[Transaction{sender='Anonymous', receiver='Everyone', data=[message = Hi everyone I am struggling to cope with the stigma, sender=anonymous08, receiver=Everyone ], timestamp=1769599549245}]
+[Transaction{sender='Anonymous', receiver='Everyone', data=[message = Hi you are not alone, we're here for you, sender=anonymous08, receiver=Everyone ], timestamp=1769599651843}]
+[Transaction{sender='Anonymous', receiver='Everyone', data=[message = stigma reflects other people's ignorance and not your worth., sender=anonymous08, receiver=Everyone ], timestamp=1769600713223}]

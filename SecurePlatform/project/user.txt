@@ -1,3 +1,0 @@
-demo, demo, 123456, 123456, 123456
-Jack Johnson, jack@gmail.com, 06453331111, 9607555444333, jack1
-sarah, sarah@gmail.com, 1234443, 970y6827643, sarah1
